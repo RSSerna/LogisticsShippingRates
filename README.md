@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+This Repo is part of a Coursera Project, as part 1/2 
